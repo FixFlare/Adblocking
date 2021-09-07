@@ -943,6 +943,7 @@ unsplash.com
 update.code.visualstudio.com
 urs.techrepublic.com
 use.fontawesome.com
+US.lgtvsdp.com
 use.typekit.net
 v.firebog.net
 v.shopify.com
