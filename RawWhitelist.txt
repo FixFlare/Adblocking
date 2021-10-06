@@ -335,6 +335,7 @@ e8.whatsapp.net
 e9.whatsapp.net
 ea.com
 ec-ns.sascdn.com
+www.emjcd.com
 ecn.dev.virtualearth.net
 edata.ndtv.com
 edge-chat.facebook.com
